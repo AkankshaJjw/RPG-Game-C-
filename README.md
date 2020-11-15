@@ -1,0 +1,2 @@
+# RPG-Game-CPP
+This is a christmas-role playing game in C++, complete with graphics displayed on a small LCD screen attached to the ARM mbed microprocessor. The inputs are managed via pughbuttons, accelerometers, etc. connected to the microprocessor. The different "maps" in the game and the "inventories" of the main character are stored using hash tables in C++. There are a number of Non Playing Characters and quests within the game.
